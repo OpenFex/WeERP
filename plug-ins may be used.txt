@@ -1,0 +1,2 @@
+1.Actipro WPF Controls 2014.2 or Later.
+2.ComponentOne Studio for WPF 2014.2 or Later
